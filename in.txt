@@ -1,0 +1,55 @@
+9 monsters
+SpiderMan SuperHero 12
+ObiWanKenobi Jedi 8
+CountDooku Sith 6
+PapaPalps Sith 10
+AnakinSkywalker Jedi 10
+IronMan SuperHero 5
+Venom Villain 10
+Mandarin Villain 30
+QuiGonJinn Jedi 12
+
+3 regions
+
+NewYorkCity
+4 monsters
+SpiderMan
+IronMan
+Venom
+Mandarin
+
+Coruscant
+5 monsters
+CountDooku
+PapaPalps
+AnakinSkywalker
+ObiWanKenobi
+QuiGonJinn
+
+Hoth
+5 monsters
+SpiderMan
+IronMan
+ObiWanKenobi
+AnakinSkywalker
+QuiGonJinn
+
+3 Trainers
+
+Tyler
+7 captures
+3 regions
+NewYorkCity
+Coruscant
+Hoth
+
+Ethan
+3 captures
+1 regions
+Coruscant
+
+Pouya
+1 captures
+2 region
+NewYorkCity
+Hoth

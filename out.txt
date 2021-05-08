@@ -1,0 +1,30 @@
+Tyler
+NewYorkCity
+1 SpiderMan
+1 IronMan
+1 Venom
+4 Mandarin
+Coruscant
+1 CountDooku
+2 PapaPalps
+2 AnakinSkywalker
+1 ObiWanKenobi
+2 QuiGonJinn
+Hoth
+2 SpiderMan
+1 IronMan
+1 ObiWanKenobi
+1 AnakinSkywalker
+2 QuiGonJinn
+
+Ethan
+Coruscant
+1 PapaPalps
+1 AnakinSkywalker
+1 ObiWanKenobi
+1 QuiGonJinn
+
+Pouya
+NewYorkCity
+1 Mandarin
+Hoth

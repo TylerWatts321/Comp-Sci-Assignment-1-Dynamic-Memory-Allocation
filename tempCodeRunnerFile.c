@@ -1,0 +1,1 @@
+atexit(report_mem_leak);
